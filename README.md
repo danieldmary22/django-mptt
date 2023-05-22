@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Compare plt.get_backend() in lowercase (#8409)
