@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
